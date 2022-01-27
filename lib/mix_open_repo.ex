@@ -1,0 +1,2 @@
+defmodule MixOpenRepo do
+end
